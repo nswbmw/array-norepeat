@@ -1,0 +1,20 @@
+{
+  "name": "array-norepeat",
+  "version": "0.0.1",
+  "description": "return an array that removing duplicate elements of the given array, still keep the order of the elements.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nswbmw/array-norepeat.git"
+  },
+  "keywords": [
+    "array",
+    "duplicate",
+    "norepeat"
+  ],
+  "author": "nswbmw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nswbmw/array-norepeat/issues"
+  }
+}
