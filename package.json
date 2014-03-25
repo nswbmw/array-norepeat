@@ -1,6 +1,6 @@
 {
   "name": "array-norepeat",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "return an array that removing duplicate elements of the given array, still keep the order of the elements.",
   "main": "index.js",
   "repository": {
